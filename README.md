@@ -1,5 +1,5 @@
 ## Welcome to my Github Profile ✨
-Here's a little about me:
+My name is Navnee Sharma and Here's a little about me:
 
 - Currently a Masters's Student, doing my masters in Data science and Artificial Intelligence 👩🏼‍💻
 - I'm currently learning and exploring more about the never ending world of data 🌍
