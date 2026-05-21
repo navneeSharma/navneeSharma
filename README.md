@@ -1,12 +1,30 @@
-## Welcome to my Github Profile ✨
-My name is Navnee Sharma and Here's a little about me:
+# Hi, I'm Navnee Sharma 👋
 
-- Currently a Masters's Student, doing my masters in Data science and Artificial Intelligence 👩🏼‍💻
-- I'm currently learning and exploring more about the never ending world of data 🌍
-- I enjoy researching the topics that makes my brain talk non-stop 🧠
-- To reach me drop in an email at navnee.sharma30@gmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/navneesharma/) 👥
+**Data Science & AI Master's Graduate** 
+Entry-level Data Scientist & AI Engineer with hands-on experience in medical imaging, NLP, and deep learning.
 
+---
 
-A little side note - I am still learning and exploring. So, I would love to discuss and learn new things about anything (literally!!) and hopefully share my knowledge. Through our exchange of knowledge on the topic, I hope we both leave the conversation with fresh insights and new perspectives. 💃🏻
+## 🛠️ Skills
 
+| Area | Tools |
+|---|---|
+| **Languages** | Python, SQL, HTML, CSS |
+| **ML / DL** | scikit-learn, TensorFlow, Pandas, NumPy |
+| **NLP** | NLTK, VADER, TF-IDF |
+| **Visualization** | Power BI, Tableau, Plotly, Seaborn, Matplotlib |
+| **Data Engineering** | MongoDB, Git, GitHub |
 
+---
+
+## 🎓 Education
+
+**M.Sc. Data Science, AI & Digital Business** — GISMA University, Berlin *(2023–2025)*  
+**B.Sc. Information, Systematics & Management** — Manipal University, Dubai *(2020–2023)*
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-navneesharma-blue?style=flat&logo=linkedin)](https://linkedin.com/in/navneesharma)
+[![Email](https://img.shields.io/badge/Email-navnee.sharma30@gmail.com-red?style=flat&logo=gmail)](mailto:navnee.sharma30@gmail.com)
