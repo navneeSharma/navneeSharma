@@ -1,7 +1,8 @@
 # Hi, I'm Navnee Sharma 👋
 
 **Data Science & AI Master's Graduate** 
-Entry-level Data Scientist & AI Engineer with hands-on experience in medical imaging, NLP, and deep learning.
+
+I'm an entry-level AI Engineer and Data Analyst with a passion for exploring data and continuously expanding my knowledge. I'm actively building my skills and working on new projects — always open to feedback, collaboration, and good conversations about data and AI.
 
 ---
 
