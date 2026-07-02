@@ -2,8 +2,6 @@
 
 **Data Science & AI Master's Graduate** 
 
-I'm an entry-level AI Engineer and Data Analyst with a passion for exploring data and continuously expanding my knowledge. I'm actively building my skills and working on new projects — always open to feedback, collaboration, and good conversations about data and AI.
-
 ---
 
 ## 🛠️ Skills
