@@ -23,16 +23,7 @@ I'm a Data Scientist and ML Engineer with a strong foundation in machine learnin
 ---
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,sqlite,git,github,html,css,sklearn,pandas,numpy,mongodb,gcp,opencv,streamlit,matplotlib)](https://skillicons.dev)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
+[![My Skills](https://skillicons.dev/icons?i=python,sqlite,git,github,html,css,sklearn,mongodb,gcp,opencv)](https://skillicons.dev)
 
 ---
 
