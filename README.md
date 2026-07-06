@@ -1,4 +1,4 @@
-# Hi, I'm Navnee Sharma 👋
+# About Me 👩🏻‍💻✨
 
 **Data Science & AI Master's Graduate** 
 
