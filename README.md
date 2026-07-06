@@ -1,6 +1,11 @@
 # About Me 👩🏻‍💻✨
 
-**Data Science & AI Master's Graduate** 
+Welcome to my Github profile. 
+I'm a Data Scientist and ML Engineer with a strong foundation in machine learning, data engineering, and applied analytics. I build end-to-end solutions from raw data pipelines to deployed models and enjoy making analysis that actually drives decisions.
+
+👩🏻‍💼 If you're a recruiter: I'd love for you to look beyond the experience on paper and see what I've built. Every project here reflects real problem-solving, from messy data, debugging production issues, and knowing when to roll back a decision that didn't work. Also, my skills are so much more than what you see here as well :)
+
+🧍🏻 If you're here out of curiosity: welcome. I hope something here is useful or interesting to you.
 
 ---
 
