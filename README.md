@@ -5,7 +5,7 @@ I'm a Data Scientist and ML Engineer with a strong foundation in machine learnin
 
 👩🏻‍💼 If you're a recruiter: I'd love for you to look beyond the experience on paper and see what I've built. Every project here reflects real problem-solving, from messy data, debugging production issues, and knowing when to roll back a decision that didn't work. Also, my skills are so much more than what you see here as well :)
 
-🧍🏻 If you're here out of curiosity: welcome. I hope something here is useful or interesting to you.
+🧍🏻 If you're here out of curiosity: Welcome!! I hope something here is useful or interesting to you.
 
 ---
 
