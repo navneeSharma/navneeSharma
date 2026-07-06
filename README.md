@@ -24,7 +24,6 @@ I'm a Data Scientist and ML Engineer with a strong foundation in machine learnin
 ## 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=python,sqlite,git,github,html,css,sklearn,pandas,numpy,mongodb,gcp,opencv,streamlit,matplotlib)](https://skillicons.dev)
-
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
